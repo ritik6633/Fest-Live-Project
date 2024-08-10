@@ -269,8 +269,8 @@ header {
   background-color: #fff;
   border: 1px solid #ddd;
   padding: 20px;
-  border-radius: 100px;
-  border: #333;
+  border-radius: 15px;
+  border: dotted;
   text-align: center;
   width: 300px;
 }
